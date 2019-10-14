@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final Exam Test App</string>
+
+    <string-array name="user_types">
+        <item>Employee</item>
+        <item>Non-Employee</item>
+    </string-array>
+</resources>
